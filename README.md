@@ -1,5 +1,5 @@
-# Created a Concrete class called EmployeeOrgApp which implements IEmployeeOrgApp
-The logic inside the class fully dependent on the structure that is defined below description. 
+# Organization Chart Test
+In this test we have Created a Concrete class called EmployeeOrgApp which implements IEmployeeOrgApp. The logic inside the class fully dependent on the structure that is defined below description.Once we will call `move` method only after that `undo` can be invoked like the way we usually do in our developer life redo and undo things.This solution supports one step redo undo not on nth level, Similer logic can build on top the existing solution.
 
 ## Project setup
 ```
